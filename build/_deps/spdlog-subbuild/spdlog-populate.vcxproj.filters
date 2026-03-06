@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\bc5419c68554475ff3867c83cf3c5ba7\spdlog-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\bc5419c68554475ff3867c83cf3c5ba7\spdlog-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\bc5419c68554475ff3867c83cf3c5ba7\spdlog-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\bc5419c68554475ff3867c83cf3c5ba7\spdlog-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\bc5419c68554475ff3867c83cf3c5ba7\spdlog-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\bc5419c68554475ff3867c83cf3c5ba7\spdlog-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\bc5419c68554475ff3867c83cf3c5ba7\spdlog-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\bc5419c68554475ff3867c83cf3c5ba7\spdlog-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\7cff473a27ca9d73c6c5fb0192d82574\spdlog-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\6097ca576d5cacb2c8ef9895f6af286a\spdlog-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\suong\code\Logger\build\_deps\spdlog-subbuild\CMakeFiles\spdlog-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4545F617-2303-3EA2-B9D5-CF2F21A1D04D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

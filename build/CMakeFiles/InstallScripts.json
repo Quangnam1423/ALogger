@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/suong/code/Logger/build/cmake_install.cmake",
+		"C:/Users/suong/code/Logger/build/_deps/spdlog-build/cmake_install.cmake",
+		"C:/Users/suong/code/Logger/build/ALogger/cmake_install.cmake",
+		"C:/Users/suong/code/Logger/build/Test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

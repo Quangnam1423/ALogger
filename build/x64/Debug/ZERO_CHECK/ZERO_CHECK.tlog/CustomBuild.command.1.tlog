@@ -1,0 +1,10 @@
+^C:\USERS\SUONG\CODE\LOGGER\BUILD\CMAKEFILES\6DEDAA4BB0AD60342286022E43A4B2B4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/suong/code/Logger -BC:/Users/suong/code/Logger/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/suong/code/Logger/build/ALogger.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

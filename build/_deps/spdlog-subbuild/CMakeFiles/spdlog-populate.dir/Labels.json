@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/6097ca576d5cacb2c8ef9895f6af286a/spdlog-populate.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/7cff473a27ca9d73c6c5fb0192d82574/spdlog-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/bc5419c68554475ff3867c83cf3c5ba7/spdlog-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/bc5419c68554475ff3867c83cf3c5ba7/spdlog-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/bc5419c68554475ff3867c83cf3c5ba7/spdlog-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/bc5419c68554475ff3867c83cf3c5ba7/spdlog-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/bc5419c68554475ff3867c83cf3c5ba7/spdlog-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/bc5419c68554475ff3867c83cf3c5ba7/spdlog-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/bc5419c68554475ff3867c83cf3c5ba7/spdlog-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/suong/code/Logger/build/_deps/spdlog-subbuild/CMakeFiles/bc5419c68554475ff3867c83cf3c5ba7/spdlog-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"spdlog-populate"
+		],
+		"name" : "spdlog-populate"
+	}
+}
