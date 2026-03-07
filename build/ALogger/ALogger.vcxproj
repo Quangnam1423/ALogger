@@ -377,6 +377,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\suong\code\Logger\ALogger\include\config.h" />
     <ClInclude Include="C:\Users\suong\code\Logger\ALogger\include\ALogger.h" />
     <ClCompile Include="C:\Users\suong\code\Logger\ALogger\src\ALogger.cpp" />
   </ItemGroup>

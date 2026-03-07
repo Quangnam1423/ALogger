@@ -3,6 +3,7 @@ set(SRC_DIR ${CMAKE_CURRENT_SOURCE_DIR}/src)
 
 set(LOGGER_SOURCES
     # headers
+    ${INC_DIR}/config.h
     ${INC_DIR}/ALogger.h
 
     #implementation

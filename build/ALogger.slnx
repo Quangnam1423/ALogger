@@ -9,6 +9,7 @@
 	</Configurations>
 	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="32447254-a44c-384c-92a2-215ae0e607a4" DefaultStartup="true">
 		<BuildDependency Project="ALogger/ALogger.vcxproj"/>
+		<BuildDependency Project="Test/TestModule.vcxproj"/>
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 		<BuildDependency Project="_deps/spdlog-build/spdlog.vcxproj"/>
 		<Build Solution="Debug|*" Project="false"/>
@@ -17,6 +18,11 @@
 		<Build Solution="RelWithDebInfo|*" Project="false"/>
 	</Project>
 	<Project Path="ALogger/ALogger.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="5f74b91c-14fa-3cd6-b16b-0ebba1d34790">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="_deps/spdlog-build/spdlog.vcxproj"/>
+	</Project>
+	<Project Path="Test/TestModule.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="bf60edd9-2a19-39a2-9685-3ca7ad8d7d85">
+		<BuildDependency Project="ALogger/ALogger.vcxproj"/>
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 		<BuildDependency Project="_deps/spdlog-build/spdlog.vcxproj"/>
 	</Project>

@@ -3,3 +3,4 @@ C:/Users/suong/code/Logger/build/CMakeFiles/ZERO_CHECK.dir
 C:/Users/suong/code/Logger/build/_deps/spdlog-build/CMakeFiles/spdlog.dir
 C:/Users/suong/code/Logger/build/_deps/spdlog-build/CMakeFiles/ALL_BUILD.dir
 C:/Users/suong/code/Logger/build/ALogger/CMakeFiles/ALogger.dir
+C:/Users/suong/code/Logger/build/Test/CMakeFiles/TestModule.dir

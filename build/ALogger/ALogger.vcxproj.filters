@@ -6,6 +6,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\suong\code\Logger\ALogger\include\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="C:\Users\suong\code\Logger\ALogger\include\ALogger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
