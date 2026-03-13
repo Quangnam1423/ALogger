@@ -5,9 +5,11 @@ set(LOGGER_SOURCES
     # headers
     ${INC_DIR}/config.h
     ${INC_DIR}/ALogger.h
+    ${INC_DIR}/FileManager.h
 
     #implementation
     ${SRC_DIR}/ALogger.cpp
+    ${SRC_DIR}/FileManager.cpp
 )
 
 add_library(ALogger ${ALOGGER_BUILD_TYPE} ${LOGGER_SOURCES})

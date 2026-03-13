@@ -6,7 +6,7 @@
 
 namespace ALogger
 {
-    class ALOGGER_EXPORT Logger
+    class ALOGGER_API Logger
     {
     public:
         Logger();

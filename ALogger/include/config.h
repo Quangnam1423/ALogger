@@ -26,15 +26,15 @@
     #define ALOGGER_DEBUG
 #endif
 
-// Define ALOGGER_EXPORT for exporting symbols when building the library
+// Define ALOGGER_API for exporting symbols when building the library
 #if defined(ALOGGER_STATIC)
-    #define ALOGGER_EXPORT
+    #define ALOGGER_API
 #else 
     #if defined(_WIN32) || defined(_WIN64)
         #if defined(ALOGGER_BUILD)
-            #define ALOGGER_EXPORT __declspec(dllexport)
+            #define ALOGGER_API __declspec(dllexport)
         #else
-            #define ALOGGER_EXPORT __declspec(dllimport)
+            #define ALOGGER_API __declspec(dllimport)
         #endif
 
         #if defined(_MSC_VER)
@@ -43,9 +43,9 @@
         #endif
     #else
         #if defined(__linux__) || defined(__unix__) || defined(__APPLE__)
-            #define ALOGGER_EXPORT __attribute__((visibility("default")))
+            #define ALOGGER_API __attribute__((visibility("default")))
         #else
-            #define ALOGGER_EXPORT
+            #define ALOGGER_API
         #endif
     #endif
 #endif

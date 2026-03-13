@@ -4,12 +4,18 @@
     <ClCompile Include="C:\Users\suong\code\Logger\ALogger\src\ALogger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\suong\code\Logger\ALogger\src\FileManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\suong\code\Logger\ALogger\include\config.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\suong\code\Logger\ALogger\include\ALogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\suong\code\Logger\ALogger\include\FileManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

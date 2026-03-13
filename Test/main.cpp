@@ -1,12 +1,3 @@
-// #include <stdio.h>
-// #include "spdlog/spdlog.h"
-
-// int main()
-// {
-//     spdlog::info("Hello, World!");
-//     return 0;
-// }
-
 #include "spdlog/spdlog.h"
 
 int main() 
@@ -25,10 +16,11 @@ int main()
     
     // change log pattern
     spdlog::set_pattern("[%H:%M:%S %z] [%n] [%^---%L---%$] [thread %t] %v");
-    
+    spdlog::set_pattern("[%H:%M:%S %z] [%n] [%^---%L---%$] [thread %t] %v");
     // Compile time log levels
     // Note that this does not change the current log level, it will only
     // remove (depending on SPDLOG_ACTIVE_LEVEL) the call on the release code.
     SPDLOG_TRACE("Some trace message with param {}", 42);
     SPDLOG_DEBUG("Some debug message");
-}
+    return 0;
+} 
